@@ -47,13 +47,13 @@ The dataset is visualized in **Power BI** to generate meaningful reports and das
 ## 📸 Dashboard Previews  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](./195dacc6-2169-443e-a775-40b03372fda3.png)  
+![Summary Dashboard](./Main_page.png)  
 
 ### 🔹 Waitlist by Speciality  
-![Waitlist by Speciality](./4429b2ea-94eb-4dc5-981d-5495cd721004.png)  
+![Waitlist by Speciality](./Detailed_Main_page.png)  
 
 ### 🔹 Detailed Grid View  
-![Detailed View](./c0aad5fc-54d7-424e-b288-2501ef6c3d17.png)  
+![Detailed View](./Detailed_view.png)  
 
 ---
 
